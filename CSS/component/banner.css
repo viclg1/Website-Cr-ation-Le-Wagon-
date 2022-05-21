@@ -1,0 +1,26 @@
+.banner {
+
+  	background-image: url(../Images/background.png) ;        
+  	background-position: center;
+	border-radius: 0%;
+	padding: 100px 0px;
+	 box-shadow: 10 10px 30px rgba(0,0,0,.1);
+
+
+}
+
+.banner h1 {
+  color: White;
+  font-size: 100px;
+  font-family: Courier, monospace;
+  margin-left: 40px
+}
+.banner h2 {
+  font-size: 50px;
+  font-weight: bold;
+	opacity: 0,9;
+		font-family: Courier, monospace;
+		color: White;
+		text-shadow:  10 10px 30px rgba(0,0,0,.1);
+
+}
